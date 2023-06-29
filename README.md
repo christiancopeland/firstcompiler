@@ -3,7 +3,7 @@
 Learning the inner workings of a compiler by building one. 
 
 CURRENT STATE:
-  o| Based on input, outputs a tree structure that follows PEMDAS to ensure multiplication and division binds
+  o| Based on input, outputs a Unix tree structure that follows PEMDAS to ensure multiplication and division binds
     stronger than addition and subtraction. 
 
 
