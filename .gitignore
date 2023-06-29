@@ -1,0 +1,74 @@
+# Compiled Object files
+*.sln.cache
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.rptproj.bak
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+project.lock.json
+packages/
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.obj
+*.user
+*.ilk
+*.manifest
+*.psess
+*.plog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.tlog
+*.sln.docstates
+*_ReSharper.*
+*_ReSharper.CSharp.*
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
