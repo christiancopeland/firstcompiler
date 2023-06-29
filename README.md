@@ -11,3 +11,6 @@ TO DO:
   o| Make it more useful
   o| Allow parenthetical operations
   o| Add variables and types into the mix
+
+
+Code Analysis folder contains most individual classes to keep main program clean. Main program is Program.cs.
